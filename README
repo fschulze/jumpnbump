@@ -39,7 +39,7 @@ do following on a debian gnu/linux system (www.debian.org)
 apt-get install libsdl-dev libsdl-mixer-dev
 sdl libraries are needed, you might find it at www.libsdl.org
 
-You can find more levels at http://www.jumpbump.mine.nu/cgi-bin/jb.sh
+You can find more levels at http://www.aiei.ch/linux/jumpnbump/
 which you can start with: jumpnbump -dat levelname.dat
 there's a screensaver mode as well:
 jumpnbump -fireworks -fullscreen
@@ -58,5 +58,4 @@ You can find the original dos game (which runs in dos/win9x (dosextender!))
 at http://www.brainchilddesign.com/games/jumpnbump/index.html
 
 If you like the game or have any ideas don't hesitate to contact me
-gurkan@linuks.mine.nu
-
+alex@aiei.ch
